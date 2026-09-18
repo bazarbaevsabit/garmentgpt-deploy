@@ -1,0 +1,9 @@
+checkpoints/
+*.safetensors
+*.pth
+__pycache__/
+*.pyc
+*.log
+my_garment.json
+venv/
+.env
