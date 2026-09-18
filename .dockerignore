@@ -1,0 +1,14 @@
+checkpoints/
+*.safetensors
+*.pth
+__pycache__/
+*.pyc
+.git/
+my_garment.json
+main.py.backup
+test.jpg
+test_small.jpg
+test.png
+*.log
+Dockerfile
+.dockerignore
