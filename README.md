@@ -89,8 +89,7 @@ docker pull bazarbaevsabit/garmentgpt:latest
 ├── Dockerfile                   # Сборка образа
 ├── requirements_frozen.txt      # Зафиксированные версии зависимостей
 ├── configs/                     # YAML-конфиги codec и RT-моделей
-├── checkpoints/                 # Модели (скачиваются отдельно)
-└── docs/DEPLOY.md              # Инструкция по развёртыванию в облаке
+└── checkpoints/                 # Модели (скачиваются отдельно)
 ```
 
 ## Ссылки
