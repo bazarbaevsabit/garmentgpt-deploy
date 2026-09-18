@@ -29,6 +29,7 @@ GarmentGPT превращает фото одежды (футболка, пла�
 
 ## Быстрый старт
 
+
 ### 1. Клонировать репозиторий
 
 ```bash
@@ -64,6 +65,12 @@ docker run --gpus all -it \
     --image_path "test.jpg" \
     --output_path "./my_garment.json" \
     --device "cuda:0"
+```
+## Готовый Docker-образ
+
+Образ доступен на Docker Hub:
+```
+docker pull bazarbaevsabit/garmentgpt:latest
 ```
 
 ## Что решено в этом форке
